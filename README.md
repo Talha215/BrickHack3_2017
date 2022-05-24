@@ -1,2 +1,2 @@
 # BrickHack3_2017
-Hi
+Android app test
